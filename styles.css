@@ -1,0 +1,73 @@
+body { font-family: 'Alfa Slab One', cursive;
+ 	background-color: beige;
+}
+
+h1 {
+ 	color: white;
+ 	text-align: center;
+ }
+h2 {
+    color: red;
+}
+ #title {
+ 	color: hotpink;
+ }
+
+ p {
+ 	font-size: 25px;
+ }
+
+.list1 {
+    font-size: 18px;
+    list-style-type:none;
+}
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Concert One', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+
+aside{
+    background-color: red;
+    float: left;
+    width: 30%;
+    padding:20px;
+}
+
+
+.pink {
+    background-color: hotpink;
+    padding-left: 50px;
+    margin-top: 5px;
+}
+
+input {
+    background-color: lightred;
+    color: black;
+    border: 0;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+/*style the header */
+header {
+    background-color; blue;
+    padding: 40px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+article {
+    background-color: white;
+    float: left;
+    width: 30%
+    padding: 20px;
+}
+.floralwhite-div {
+    background-color: floralwhite;
+}
+li { 
+    font-size: 25px;
+      list-style-type:none;
+ } 
